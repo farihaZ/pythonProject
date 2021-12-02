@@ -110,7 +110,7 @@ def main():
       # print(lista[-3:-1])
 
       #print(input("frase:")[::-1])
-      lista =input("introduce the list ")
+      lista =input("introduce the list: ")
       while lista != 0 :
          print(lista)
 
